@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    background-color: #232830;
+}
+
+body {
+    color: white;
+    min-height: 100%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.brand-link {
+    text-decoration: none;
+    color: white;
+}
+
+.links {
+    display: inline-flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.links-link {
+    display: inline;
+}
